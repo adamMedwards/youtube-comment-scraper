@@ -1,0 +1,5 @@
+{
+    "youtube_api_key": "YOUR_YOUTUBE_API_KEY",
+    "max_comments": 100,
+    "include_replies": true
+}
